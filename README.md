@@ -21,11 +21,14 @@ You **don't need** to have an internet connection.
 ## Preview:
 
 ### Idle screen:
-[screen_idle](screens/idle.png)
+
+![screen_idle](screens/idle.png)
 
 ### Setting time:
-[screen_setting](screens/setting.png)
+
+![screen_setting](screens/setting.png)
 
 ### Time up:
-[screen_time_up](screens/time_up.png)
+
+![screen_time_up](screens/time_up.png)
 
