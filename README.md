@@ -2,6 +2,8 @@
 
 A lightweight, simple, offline and straight-to-business countdown timer for presentations.
 
+### ⚡ [Try it here](http://mexomagno.github.io/Semaforo/)
+
 ## Features:
 
 * Led segment-like digits
